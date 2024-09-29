@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="skybird">SKYBIRD</string>
+    <string name="inrotext">Fly anywhere easily\n without obstacles</string>
+    <string name="intro2">Experience the unparalleled\n freedom of unhindered\n flight as you effortlessly travers</string>
+    <string name="get_start_btn">Get Start</string>
+    <string name="create_an_account_btn">Create an account</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="sandaruwan">Sandaruwan</string>
+    <string name="let_s_explore_the_world_n_with_us">Let\'s explore the world\n with us!!!</string>
+    <string name="to">To</string>
+    <string name="passenger">Passenger</string>
+    <string name="passen">-</string>
+    <string name="_1_adult">1 Adult</string>
+    <string name="increce">+</string>
+    <string name="_1_chiled">1 Chiled</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="return_date">Return Date</string>
+    <string name="home">Home</string>
+    <string name="home1">Home</string>
+    <string name="explorer">Explorer</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="home2">Home2</string>
+    <string name="explorer1">Explorer</string>
+    <string name="bookmark1">Bookmark</string>
+    <string name="profile1">Profile</string>
+    <string name="from">From</string>
+    <string name="search_result">Search Result</string>
+    <string name="_0_0">$0.0</string>
+    <string name="time">time</string>
+</resources>
